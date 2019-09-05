@@ -1,0 +1,2 @@
+My name is Jue Hou. I have a problem in your Pb-lite-Edge-Detection project. 
+The Line 382 and 383 in your pb-lite.py documents maybe has a simple mistake. Is the variable i in the loop need to be changed to k? 
